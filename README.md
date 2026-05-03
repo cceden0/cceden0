@@ -49,6 +49,10 @@ Soy estudiante enfocado en Ciberseguridad. Me interesa la programación y disfru
 | **[Nombre del Proyecto 3]** | Breve descripción. | `JavaScript`, `Node.js` |
 
 ---
+# :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## 📚 Actualmente Aprendiendo
 
